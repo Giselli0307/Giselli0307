@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, eu sou Giselli </h1>
 <h3 align="center">Sou estudante de análise de dados</h3>
 
-- 🔭 Atualmente estou fazendo estágio de análise e visualização de dados
+- 🔭 Atualmente estou trabalhando com análise de dados
 - **Estou escrevendo um artigo acadêmico através de pesquisas e modelagem de dados**
 
 - 🌱 Atualmente estou aprendendo **SQL, Machine Learning, PySpark, Interface gráfica com python**
 
-- 💬 Me pergunte sobre **Python, Power BI, Excel e Métodos estatísticos**
+- 💬 Me pergunte sobre **Python, Power BI, Excel e Métodos estatísticos, app streamlit**
 
 - 📫 Você me acha **https://www.linkedin.com/in/giselli-alcantara/**
 - 📫 Site com os dashboards desenvolvidos **https://sites.google.com/view/portfolioestudos-de-dashboard/in%C3%ADcio**
