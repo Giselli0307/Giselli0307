@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprendendo **SQL, Machine Learning, PySpark, Interface gráfica com python**
 
-- 💬 Me pergunte sobre **Python, Power BI, Excel e Métodos estatísticos, app streamlit**
+- 💬 Me pergunte sobre **Python, Power BI, Excel e Métodos estatísticos, app streamlit, automação de processos**
 
 - 📫 Você me acha **https://www.linkedin.com/in/giselli-alcantara/**
 - 📫 Site com os dashboards desenvolvidos **https://sites.google.com/view/portfolioestudos-de-dashboard/in%C3%ADcio**
