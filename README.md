@@ -4,9 +4,9 @@
 - 🔭 Atualmente estou trabalhando com análise de dados
 - **Estou escrevendo um artigo acadêmico através de pesquisas e modelagem de dados**
 
-- 🌱 Atualmente estou aprendendo **SQL, Machine Learning, PySpark, Interface gráfica com python**
+- 🌱 Atualmente estou aprendendo ** Machine Learning, PySpark, HTML, CSS, JavaScript**
 
-- 💬 Me pergunte sobre **Python, Power BI, Excel e Métodos estatísticos, app streamlit, automação de processos**
+- 💬 Me pergunte sobre **Python, SQL, Power BI, Excel e Métodos estatísticos, app streamlit, automação de processos**
 
 - 📫 Você me acha **https://www.linkedin.com/in/giselli-alcantara/**
 - 📫 Site com os dashboards desenvolvidos **https://sites.google.com/view/portfolioestudos-de-dashboard/in%C3%ADcio**
