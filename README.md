@@ -1,39 +1,55 @@
-<h1 align="center">Olá 👋, eu sou Giselli </h1>
-<h3 align="center">Sou estudante de análise de dados</h3>
+# Olá 👋, eu sou a Giselli!
 
-- 🔭 Atualmente estou trabalhando com análise de dados
-- **Estou escrevendo um artigo acadêmico através de pesquisas e modelagem de dados**
+### Analista de Dados | Python • SQL • Power BI • Machine Learning
 
-- 🌱 Atualmente estou aprendendo ** Machine Learning, PySpark, HTML, CSS, JavaScript**
+Sou profissional da área de análise de dados, com formação em Ciência e Economia e interesse em transformar dados em informações relevantes para a tomada de decisão.
 
-- 💬 Me pergunte sobre **Python, SQL, Power BI, Excel e Métodos estatísticos, app streamlit, automação de processos**
+Tenho experiência com análise de dados, construção de dashboards, automação de processos e desenvolvimento de soluções para análises financeiras e operacionais. Também venho ampliando meus conhecimentos em desenvolvimento de aplicações e Machine Learning, buscando conectar análise estatística, tecnologia e resolução de problemas reais.
 
-- 📫 Você me acha **https://www.linkedin.com/in/giselli-alcantara/**
-- 📫 Site com os dashboards desenvolvidos **https://sites.google.com/view/portfolioestudos-de-dashboard/in%C3%ADcio**
+## 🚀 Áreas de interesse
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/giselli-alcantara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giselli-alcantara/" height="30" width="40" /></a>
-</p>
+- 📊 **Análise de Dados e Business Intelligence:** indicadores, dashboards e análise de desempenho.
+- 🐍 **Python e Estatística:** tratamento de dados, análise exploratória e modelagem estatística.
+- 🤖 **Machine Learning:** estudo de modelos preditivos e técnicas de aprendizado de máquina.
+- ⚙️ **Automação de Processos:** criação de rotinas para reduzir tarefas manuais e melhorar processos.
+- 💻 **Desenvolvimento de Aplicações:** construção de ferramentas para disponibilizar análises e informações.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠️ Tecnologias e ferramentas
+
+**Dados e análise:** Python, Pandas, NumPy, SQL, PostgreSQL, Excel e Power BI.
+
+**Estatística e Machine Learning:** análise estatística, modelagem econométrica e bibliotecas de aprendizado de máquina.
+
+**Desenvolvimento:** Streamlit, FastAPI, React, JavaScript, HTML e CSS.
+
+**Visualização de dados:** Power BI e bibliotecas de visualização em Python.
+
+## 📌 Projetos em destaque
+
+### 📊 Dashboards em Power BI
+Projetos de visualização de dados e acompanhamento de indicadores, incluindo análises relacionadas à COVID-19 e ao consumo de conteúdo da Netflix.
+
+### 📈 Pesquisa acadêmica e modelagem de dados
+Desenvolvimento de pesquisa acadêmica envolvendo análise de dados e modelagem econométrica, com foco na investigação de fatores associados à permanência e ao desligamento de farmácias em uma rede de licenciamento farmacêutico.
+
+### ⚙️ Aplicações e automação de processos
+Desenvolvimento de soluções utilizando Python, SQL e ferramentas web para automatizar rotinas, consolidar informações e apoiar análises financeiras e operacionais.
 
 
-<!---
+## 🌱 Atualmente estudando
 
+- Machine Learning e modelagem preditiva.
+- PySpark e processamento de dados.
+- React e desenvolvimento de interfaces.
+- FastAPI e construção de APIs.
+- Aprimoramento de técnicas de análise estatística.
 
+## 📫 Vamos nos conectar?
 
+- **LinkedIn:** [Giselli Alcantara](https://www.linkedin.com/in/giselli-alcantara/)
+- **Portfólio:** [Acesse meus projetos](https://gisellialcantara-portfolio.netlify.app/)
+- **GitHub:** explore meus repositórios e projetos.
 
-- 👋 Oi, meu nome é Giselli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-<!---
-Giselli0307/Giselli0307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Transformando dados em análises, análises em conhecimento e conhecimento em soluções.*
